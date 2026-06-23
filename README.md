@@ -49,11 +49,11 @@ Response body-[
     "customerName": "John",
     "monthlyRewards": [
       {
-        "month": "JANUARY",
+        "monthYear": "2026-01",
         "rewardPoints": 115
       },
       {
-        "month": "FEBRUARY",
+        "monthYear": "2026-02",
         "rewardPoints": 250
       }
     ],
@@ -64,7 +64,7 @@ Response body-[
     "customerName": "Mary",
     "monthlyRewards": [
       {
-        "month": "JANUARY",
+        "monthYear": "2026-01",
         "rewardPoints": 150
       }
     ],
